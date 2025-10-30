@@ -100,4 +100,5 @@ Traders aligning their strategy with **sentiment cycles**, **volatility trends**
 ## 💼 Author  
 **Rakesh Pathlavath**  
 📧 rakeshpathlavath07@gmail.com 
+
 💻 GitHub: https://github.com/RakeshPathlavath07
